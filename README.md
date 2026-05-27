@@ -1,5 +1,4 @@
-```markdown
-# 🔺 KarionIDE v1.0 (beta)
+🔺 KarionIDE v1.0 (beta)
 
 [![Estado](https://img.shields.io/badge/estado-beta-orange?style=flat-square)](https://github.com/Roussel19/karionideof)
 [![Plataforma](https://img.shields.io/badge/plataforma-Windows%20solo-blue?style=flat-square)](https://www.microsoft.com/windows)
